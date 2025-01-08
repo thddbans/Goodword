@@ -3,6 +3,7 @@ import random
 
 # 명언 리스트
 quotes = [
+    "ㅋ.",
     "The only limit to our realization of tomorrow is our doubts of today.",
     "Do what you can, with what you have, where you are.",
     "Success is not final, failure is not fatal: It is the courage to continue that counts.",
